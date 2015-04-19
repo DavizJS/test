@@ -1,1 +1,3 @@
-alert("Que tal?")
+function main(){
+  
+}
